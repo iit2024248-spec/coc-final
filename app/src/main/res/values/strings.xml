@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CoC Auto Attack</string>
+    <string name="svc_desc">Reads loot numbers from the screen and performs taps for the attack loop.</string>
+</resources>
